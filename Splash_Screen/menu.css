@@ -1,0 +1,36 @@
+#game-screen-container {
+  border: 1px solid black;
+  width: 1920px;
+  height: 1080px;
+  position: relative;
+}
+
+.menu {
+  position: absolute;
+  width: 80%;
+  height: 80%;
+  left: 10%;
+  top: 10%;
+  background-color: #ffffff;
+  border: 5px double #000;
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Passion One', cursive;
+}
+
+#bob {
+  max-width: 30%;
+  max-height: 30%;
+  /*padding-bottom: 40px;*/
+}
+
+
+legend {
+  font-weight: bold;
+}
+
+table, td {
+  border: 1px solid gray;
+}
