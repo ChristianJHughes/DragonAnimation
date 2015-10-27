@@ -6,6 +6,6 @@ A simple HTML Splash Screen exists for the Dragon character, highlighting his tr
 
 An upcoming fighting game entitled "Monster Bash" will utilize the animations herein.
 <hr>
-![Idle Animation](http://i.imgur.com/DNuN6kZ.gifv "Idle Animation")
+![Idle Animation](http://i.imgur.com/DNuN6kZ.gif "Idle Animation")
 
 ![Splash Example](http://i.imgur.com/ck8Mf9r.png "Splash Example")
